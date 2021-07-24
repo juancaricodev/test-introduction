@@ -1,1 +1,3 @@
 Mi nombre es Juan Camilo y soy un desarrollador web.
+Me desempeño como desarrollador Front-end.
+Me gusta trabajar con React.
